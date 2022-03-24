@@ -1,0 +1,4 @@
+name;surname;age
+yannick;giernat;32
+marko;heinzel;16
+super;man;999
